@@ -1,0 +1,1562 @@
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:05 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:06 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "GET /index.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:07 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:08 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:08 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:09 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:10 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "GET /index.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:10 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:10 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:11 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:11 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:12 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:12 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:13 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:13 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:14 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:14 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:15 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:15 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:15 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:16 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:16 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:17 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:17 -] "GET /index.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:18 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:18 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:18 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:19 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:19 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:20 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:20 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:21 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:21 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:22 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:22 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:23 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:23 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:24 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:24 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:25 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:25 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:26 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:26 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:27 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:27 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:28 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:28 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:29 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:29 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:30 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:30 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:30 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:31 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:31 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:32 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:32 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "GET /forbidden.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:33 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:34 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:34 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:35 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:35 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:35 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:36 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:36 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:37 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:37 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:38 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:38 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:38 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:38 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:38 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:38 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:38 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:42 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:42 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:43 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:43 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "GET /index.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:44 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:44 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:45 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:45 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:46 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:46 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:46 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:47 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:47 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:48 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:48 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:49 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:49 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:49 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /writenot.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /newfile.txt HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:50 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:50 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:51 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:51 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:52 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:52 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:52 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:53 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:53 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:54 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:54 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:55 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /writenot.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:55 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /writenot.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:55 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:56 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:56 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:57 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:57 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:57 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:58 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:58 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:39:59 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:39:59 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:00 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /writenot.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:00 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:01 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:01 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:01 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:02 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:02 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:03 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:03 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:04 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:04 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:05 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:05 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:06 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:07 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:07 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:07 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:08 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:09 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:09 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:10 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:10 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:11 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:11 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:12 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /writenot.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:12 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "PUT /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:13 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "GET /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "GET /fdjgk.html HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "GET /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "HEAD /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "HEAD /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "PUT /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "PUT /index.asd HTTP/1.1"415 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /temp.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /index.html HTTP/1.1"400 -
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /fdk.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:13 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - [07/Dec/2020:14:40:14 -] "DELETE /newfile.txt HTTP/1.1"404 "-" "python-requests/2.22.0"
+127.0.0.1 - - [07/Dec/2020:14:40:14 +] "GETT /index.html HTTP/1.1"501 94 "-" "My testing file"
+127.0.0.1 - [07/Dec/2020:14:59:26 -] "GET /favicon.ico HTTP/1.1"404 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - [07/Dec/2020:15:02:47 -] "GET /favicon.ico HTTP/1.1"404 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"

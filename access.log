@@ -1,0 +1,17 @@
+127.0.0.1 - - [07/Dec/2020:14:59:26 +] "GET /form.html HTTP/1.1"200 926 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - [07/Dec/2020:14:59:26 -] "GET /favicon.ico HTTP/1.1"404 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - - [07/Dec/2020:14:59:32 +] "POST /form.html HTTP/1.1"200 926 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+
+first_name=jsfdklj
+last_name=dfkslj
+user_id=lkfjs
+password=fdlkj
+subject=Male
+submit=Submit
+127.0.0.1 - - [07/Dec/2020:15:02:13 +] "GET /COEP/redirect.html HTTP/1.1"301 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - - [07/Dec/2020:15:02:13 +] "GET /COEP/redirect.html HTTP/1.1"301 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - - [07/Dec/2020:15:02:13 +] "GET /COEP/redirect.html HTTP/1.1"301 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - - [07/Dec/2020:15:02:13 +] "GET /COEP/redirect.html HTTP/1.1"301 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - - [07/Dec/2020:15:02:13 +] "GET /COEP/redirect.html HTTP/1.1"200 57 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - - [07/Dec/2020:15:02:47 +] "GET /form.html HTTP/1.1"200 926 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
+127.0.0.1 - [07/Dec/2020:15:02:47 -] "GET /favicon.ico HTTP/1.1"404 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0"
