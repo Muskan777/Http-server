@@ -117,7 +117,11 @@ Apart from these some common status codes are:
 	Status 501 Method Not Impelemented:
 	When client request requests method other than GET, POST, PUT, HEAD, DELETE then server returns 501 status code.
 	
-	
+
+
+## Authors:
+	Manish Arora
+	Muskan Paryani
 	
 	
 	
